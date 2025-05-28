@@ -57,6 +57,7 @@ header{
     nav ul li a:hover {
       border-color: #ff0000;
       background-color: rgba(49, 47, 47, 0.189);
+   
     }
     table {
       margin-left: auto;
